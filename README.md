@@ -1,1 +1,1 @@
-# guessing-game-python
+# guessing-games
